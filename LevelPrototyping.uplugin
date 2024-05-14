@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
+	"Version": 2,
+	"VersionName": "1.1.0",
 	"FriendlyName": "LevelPrototyping",
 	"Description": "언리얼 엔진 기본 제공 콘텐츠 플러그인화",
 	"Category": "Content",
