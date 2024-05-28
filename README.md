@@ -1,6 +1,7 @@
-# Plugin LevelPrototyping
+# Plugin Level Prototyping
 
-언리얼 엔진 기본 제공 콘텐츠 LevelPrototyping 플러그인화
+- 에픽게임즈 무료 콘텐츠 
+- 레벨 프로토타이핑을 위한 기본 스태틱 메시
 
 ## 설치 방법
 
@@ -15,4 +16,4 @@
 
 1. `zip` 파일 다운로드
 2. 압축 해제 후 루트 폴더 이름을 `LevelPrototyping`으로 수정
-3. 언리얼 프로젝트 `Plugins` 폴더로 플러그인 폴더 붙여넣기
+3. 언리얼 프로젝트 `Plugins` 폴더로 `LevelPrototyping` 붙여넣기
